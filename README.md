@@ -2,6 +2,7 @@ affine
 # Affine
 
 > Write, Draw, Plan all at Once.
+> AFFiNE is an open source all in one workspace, an operating system for all the building blocks of your team wiki, knowledge management and digital assets and a better alternative to Notion and Miro.
 
 Based on "Affine" at https://affine.pro/
 
