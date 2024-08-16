@@ -10,6 +10,8 @@ Based on "Affine Cloud" at https://app.affine.pro/
 
 Based on "Monday Notion Miro Alternative - AFFiNE - FREE, Open Source, Privacy First!" at https://www.youtube.com/watch?v=lYmjgzyckQc
 
+Based on "Affine Docs" at https://docs.affine.pro/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
