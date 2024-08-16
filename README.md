@@ -1,7 +1,11 @@
-repository-name
-# Repository Name
+affine
+# Affine
 
-Based on "ABC" at https://www.abc.com/
+> Write, Draw, Plan all at Once.
+
+Based on "Affine" at https://affine.pro/
+
+Based on "Affine Cloud" at https://app.affine.pro/
 
 ## 100 - Introduction
 
