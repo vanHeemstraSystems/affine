@@ -1,5 +1,8 @@
 # Elements of Affine
 
+> Definition of blocks and pages of AFFiNE is in [Blocks with Databases](https://docs.affine.pro/docs/blocks-with-databases).
+> Everything in AFFiNE is a Block
+
 Based on "Elements of Affine" at https://docs.affine.pro/docs/core-concepts/elements-of-affine
 
 Let’s go through all the elements and their structures that make up AFFiNE.
